@@ -11,7 +11,8 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    
+
+/*header start*/    
 }
 header{
     background-color: #f2d2bdc0;
@@ -30,9 +31,37 @@ header{
     font-size: 12px;
     margin-bottom: 30px;
     text-align: left;
+    color: rgba(39, 39, 39, 0.60);
 }
 .head-img{
     height: 550px;
        
 }
+/*header end*/  
 
+/*footer start*/
+footer{
+    background-color:#111010;
+
+}
+.footer-content{
+    text-align: center;
+    color:white ;
+    padding: 80px 250px 80px 250px;
+}
+.flower{
+    color: rgba(236, 8, 130, 0.879);
+    font-size: 30px;
+}
+.shop{
+    color: white;
+    font-size: 30px;
+}
+.des{
+    font-size: 12px;
+}
+.copyright{
+    font-size:10px ;
+    color: darkgray;
+}
+/*footer end*/
