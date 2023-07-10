@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: #f2d2bdc0;
+    display: flex;
+    align-items: center;
+    padding: 50px 230px 0px 230px;
+    gap: 280px;
+}
+.content{
+width: 650px;
+}
+.head-text{
+    font-size: 45px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.description{
+    font-size: 12px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.head-img{
+    height: 550px;
+       
+}
+
+.btn-primary{
+    color: bisque;
+    background-color: rgba(236, 8, 130, 0.879);
+    padding:15px 30px;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+}
